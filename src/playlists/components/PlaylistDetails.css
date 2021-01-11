@@ -1,0 +1,5 @@
+.is-public{
+  border-bottom: 1px solid currentColor
+}
+.is-public.is-public-yes{color:green;}
+.is-public.is-public-no{color:red;}
